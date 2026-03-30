@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "03005bf6ad8e1ec3381ce6cbff2f6e44",
+const RESOURCES = {"flutter_bootstrap.js": "72343826f29f89eaa6767c2f8b27597d",
 "version.json": "98da3626d13cbd32997dc2da2af41943",
 "index.html": "2187bdd30aeb2c53bf4918a4f87471c6",
 "/": "2187bdd30aeb2c53bf4918a4f87471c6",
-"main.dart.js": "889aee476260ff2c6c4d7f5a80ebe8f0",
+"main.dart.js": "066e4239b0a3895ae09a547b5678a284",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -21,7 +21,7 @@ const RESOURCES = {"flutter_bootstrap.js": "03005bf6ad8e1ec3381ce6cbff2f6e44",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
 "assets/AssetManifest.bin": "0ef4d55e7ae7fe7b209353d1cde66f8d",
-"assets/fonts/MaterialIcons-Regular.otf": "7e611f51fb8cba10aa058d8fddfcd196",
+"assets/fonts/MaterialIcons-Regular.otf": "83d2106b1f3aceda5efaa985f6a8ce39",
 "assets/assets/zodiac/pisces.png": "9a50936067fb45c1a736f44065ee0f50",
 "assets/assets/zodiac/libra.png": "1ecdbccbb726466ff27aec7e8980a6db",
 "assets/assets/zodiac/aries.png": "17b05723bc3a80e61287bf8ff7723d84",
